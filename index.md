@@ -5,7 +5,9 @@
 This is some text
 *Cursive*
 **Bold**
+
     This code
+
 `And this code`
 
 You can use the [editor on GitHub](https://github.com/smylebifa/smylebifa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
