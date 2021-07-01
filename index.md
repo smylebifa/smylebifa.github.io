@@ -6,20 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Сортировка пузырьком
-
-```markdown
-void BubbleSort(vector<int>& values) {
-  for (size_t idx_i = 0; idx_i + 1 < values.size(); ++idx_i) {
-    for (size_t idx_j = 0; idx_j + 1 < values.size() - idx_i; ++idx_j) {
-      if (values[idx_j + 1] < values[idx_j]) {
-        swap(values[idx_j], values[idx_j + 1]);
-      }
-    }
-  }
-}
-```
-
 ```markdown
 Syntax highlighted code block
 
@@ -47,3 +33,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+Сортировка пузырьком
+
+```markdown
+void BubbleSort(vector<int>& values) {
+  for (size_t idx_i = 0; idx_i + 1 < values.size(); ++idx_i) {
+    for (size_t idx_j = 0; idx_j + 1 < values.size() - idx_i; ++idx_j) {
+      if (values[idx_j + 1] < values[idx_j]) {
+        swap(values[idx_j], values[idx_j + 1]);
+      }
+    }
+  }
+}
+```
