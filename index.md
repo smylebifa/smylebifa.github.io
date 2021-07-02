@@ -27,7 +27,7 @@ More details [GitHub Flavored Markdown](https://guides.github.com/features/maste
 
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Сортировка пузырьком
+### Сортировка пузырьком
 
 ```markdown
 void BubbleSort(vector<int>& values) {
