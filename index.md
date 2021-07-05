@@ -1,8 +1,9 @@
 ## Github Page
 
 ### Markdown
-
+```markdown
 Syntax highlighted code block
+```
 
 # Header 1
 ## Header 2
@@ -38,4 +39,3 @@ void BubbleSort(vector<int>& values) {
   }
 }
 ```
-_Some Italic text_
