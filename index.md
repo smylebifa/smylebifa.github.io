@@ -1,6 +1,7 @@
 ## Github Page
 
 ### Markdown
+
 ```markdown
 Syntax highlighted code block
 ```
