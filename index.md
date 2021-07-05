@@ -1,13 +1,9 @@
-## Github Page
+## Sorting algorithms 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-### Sorting algorithms 
 ![Image](https://smylebifa.github.io/images/sorting_algorithms.png)
+
+1. Bubble sort
+2. Shaker sort
 
 
 ### Bubble sort
@@ -24,6 +20,7 @@ void BubbleSort(vector<int>& values) {
 }
 ```
 
+### More information
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 [Jekyll Themes](https://jekyllrb.com/)
