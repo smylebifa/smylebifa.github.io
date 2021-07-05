@@ -1,31 +1,12 @@
 ## Github Page
 
-### Markdown
-
-```markdown
-Syntax highlighted code block
-```
-
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-More details [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-[Jekyll](https://jekyllrb.com/)
-
-The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](src)
 
 ### Сортировка пузырьком
 
@@ -40,3 +21,9 @@ void BubbleSort(vector<int>& values) {
   }
 }
 ```
+
+### Markdown 
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+[Jekyll](https://jekyllrb.com/)
