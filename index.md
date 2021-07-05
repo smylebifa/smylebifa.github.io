@@ -8,6 +8,7 @@
 
 ![Image](https://smylebifa.github.io/images/index.gif)
 
+
 ### Сортировка пузырьком
 
 ```markdown
