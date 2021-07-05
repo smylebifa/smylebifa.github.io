@@ -2,8 +2,8 @@
 
 ![Image](https://smylebifa.github.io/images/sorting_algorithms.png)
 
-1. Bubble sort
-2. Shaker sort
+* Bubble sort
+* Shaker sort
 
 
 ### Bubble sort
