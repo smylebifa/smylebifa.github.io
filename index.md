@@ -2,8 +2,8 @@
 
 ![Image](https://smylebifa.github.io/images/sorting_algorithms.png)
 
-* Bubble sort
-* Shaker sort
+1. Bubble sort
+2. Shaker sort
 
 First Header | Second Header
 ------------ | -------------
@@ -24,9 +24,3 @@ void BubbleSort(vector<int>& values) {
   }
 }
 ```
-
-### More information
-
-[Markdown](https://guides.github.com/features/mastering-markdown/) 
-
-[Jekyll Themes](https://jekyllrb.com/)
