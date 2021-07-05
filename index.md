@@ -6,6 +6,7 @@
 1. Numbered
 2. List
 
+### Алгоритмы сортировок
 ![Image](https://smylebifa.github.io/images/sorting_algorithms.png)
 
 
