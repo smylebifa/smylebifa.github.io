@@ -24,6 +24,6 @@ void BubbleSort(vector<int>& values) {
 }
 ```
 
-[Markdown](https://guides.github.com/features/mastering-markdown/).
+[Markdown](https://guides.github.com/features/mastering-markdown/)
 
 [Jekyll Themes](https://jekyllrb.com/)
