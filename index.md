@@ -6,7 +6,7 @@
 1. Numbered
 2. List
 
-![Image](https://smylebifa.github.io/images/sorting_algorithms)
+![Image](https://smylebifa.github.io/images/sorting_algorithms.png)
 
 
 ### Сортировка пузырьком
