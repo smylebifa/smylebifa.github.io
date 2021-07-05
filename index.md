@@ -2,7 +2,6 @@
 
 ### Markdown
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -18,7 +17,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 More details [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
