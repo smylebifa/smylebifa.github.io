@@ -6,7 +6,7 @@
 1. Numbered
 2. List
 
-![Image](src)
+![Image](https://smylebifa.github.io/images/BubbleSort.png)
 
 ### Сортировка пузырьком
 
