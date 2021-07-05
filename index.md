@@ -6,11 +6,11 @@
 1. Numbered
 2. List
 
-### Алгоритмы сортировок
+### Sorting algorithms 
 ![Image](https://smylebifa.github.io/images/sorting_algorithms.png)
 
 
-### Сортировка пузырьком
+### Bubble sort
 
 ```markdown
 void BubbleSort(vector<int>& values) {
