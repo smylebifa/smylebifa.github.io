@@ -30,7 +30,7 @@ The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 ### Сортировка пузырьком
 
 ```markdown
-`void BubbleSort(vector<int>& values) {
+void BubbleSort(vector<int>& values) {
   for (size_t idx_i = 0; idx_i + 1 < values.size(); ++idx_i) {
     for (size_t idx_j = 0; idx_j + 1 < values.size() - idx_i; ++idx_j) {
       if (values[idx_j + 1] < values[idx_j]) {
@@ -38,5 +38,6 @@ The name of this theme is saved in the Jekyll `_config.yml` configuration file.
       }
     }
   }
-}`
+}
 ```
+_Some Italic text_
