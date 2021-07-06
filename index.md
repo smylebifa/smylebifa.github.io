@@ -2,13 +2,15 @@
 
 </br>
 
+1. [Bubble sort](#Bubble);
+2. [Shaker sort](#Shaker);
+
+</br>
+
 | № |  Algorithm  | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
 |:-:|:-----------:|:-----------------------:|:-------------------------:|:----------------------:|:---------------:|
 | 1 | Bubble sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 | 2 | Shaker sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
-
-1. [Bubble sort](#Bubble);
-2. [Shaker sort](#Shaker);
 
 </br>
 
@@ -25,6 +27,8 @@ void BubbleSort(vector<int>& values) {
   }
 }
 ```
+
+</br>
 
 ### <a name="Shaker"></a> Shaker sort
 
