@@ -8,6 +8,8 @@
 
 <br/>
 
+@[toc]
+
 ### <a name="Bubble"></a> Bubble sort
 
 ```c++
