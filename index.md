@@ -1,11 +1,11 @@
 ## Sorting algorithms 
 
-![Image](https://smylebifa.github.io/images/sorting_algorithms.png)
 
 1. Bubble sort
 2. Shaker sort
 
-First Header | Second Header
+
+Bubble sort
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
