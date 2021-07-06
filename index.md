@@ -8,7 +8,7 @@
 
 <br/>
 
-Содержание[toc]
+$x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ 
 
 ### <a name="Bubble"></a> Bubble sort
 
