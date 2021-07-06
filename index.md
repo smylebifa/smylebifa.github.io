@@ -44,4 +44,3 @@ void ShakerSort(vector<int>& values) {
   }
 }
 ```
-[TOC]
