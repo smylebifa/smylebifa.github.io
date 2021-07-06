@@ -6,8 +6,8 @@
 | 2 | Shaker sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 
 
-- [Bubble sort](#a-1)
-- [Shaker sort](#a-2)
+[Bubble sort](#a-1)
+[Shaker sort](#a-2)
 
 
 ### Bubble sort
