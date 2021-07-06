@@ -6,9 +6,11 @@
 
 
 Bubble sort
-|:------------------:|:------------------:|
-|Content from cell 1 | Content from cell 2|
-|Content in the first column | Content in the second column|
+
+| Худшее время | O(n2) |
+|:------------:|:-----:|
+|Среднее время | O(n2) |
+|Лучшее время  | O(n)  |
 
 
 ### Bubble sort
