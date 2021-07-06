@@ -1,5 +1,3 @@
-[TOC]
-
 ## Sorting algorithms 
 
 | № |  Algorithm  | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
@@ -46,3 +44,4 @@ void ShakerSort(vector<int>& values) {
   }
 }
 ```
+[TOC]
