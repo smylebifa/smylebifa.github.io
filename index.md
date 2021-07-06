@@ -7,6 +7,7 @@
 
 
 [Bubble sort](#a-1)
+</br>
 [Shaker sort](#a-2)
 
 
