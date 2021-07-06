@@ -8,6 +8,8 @@
 
 <br/>
 
+O(n^2)
+
 ### <a name="Bubble"></a> Bubble sort
 
 ```c++
