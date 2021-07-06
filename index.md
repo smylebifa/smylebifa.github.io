@@ -1,9 +1,9 @@
 ## Sorting algorithms 
 
 
-| № |  Algorithm   | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
-|:-:|:------------:|:-----------------------:|:-------------------------:|:----------------------:|:---------------:|
-| 1 | Bubble sort  |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
+| № |  Algorithm       | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
+|:-:|:----------------:|:-----------------------:|:-------------------------:|:----------------------:|:---------------:|
+| 1 | Bubble sort      |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 
 
 ### Bubble sort
