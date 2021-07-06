@@ -1,6 +1,3 @@
-<script type="text/javascript" src="LaTeXMathML.js"></script>
-<link rel="stylesheet" type="text/css" href="LaTeXMathML.standardarticle.css"/>
-
 ## Sorting algorithms 
 
 | № |        Algorithm        | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
