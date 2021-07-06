@@ -8,7 +8,7 @@
 
 <br/>
 
-@[toc]
+Содержание[toc]
 
 ### <a name="Bubble"></a> Bubble sort
 
