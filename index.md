@@ -12,7 +12,6 @@
 1. [Bubble sort](#Bubble);
 2. [Shaker sort](#Shaker);
 
-</br>
 
 ### <a name="Bubble"></a> Bubble sort
 
@@ -28,7 +27,6 @@ void BubbleSort(vector<int>& values) {
 }
 ```
 
-</br>
 
 ### <a name="Shaker"></a> Shaker sort
 
