@@ -5,9 +5,10 @@
 | 1 | Bubble sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 | 2 | Shaker sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 
-[TOC]
+1. [Bubble sort](#Bubble);
+2. [Shaker sort](#Shaker);
 
-### Bubble sort
+### <a name="Bubble"></a> Bubble sort
 
 ```markdown
 void BubbleSort(vector<int>& values) {
@@ -21,7 +22,7 @@ void BubbleSort(vector<int>& values) {
 }
 ```
 
-### Shaker sort
+### <a name="Shaker"></a> Shaker sort
 
 ```markdown
 void ShakerSort(vector<int>& values) {
