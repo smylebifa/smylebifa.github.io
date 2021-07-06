@@ -5,7 +5,6 @@
 | 1 | Bubble sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 | 2 | Shaker sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 
-[TOC]
 
 ## Bubble sort
 
