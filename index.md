@@ -3,14 +3,14 @@
 
 | № |        Algorithm        | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
 |:-:|:-----------------------:|:-----------------------:|:-------------------------:|:----------------------:|:---------------:|
-| 1 | [Bubble sort](#Bubble)  |          O(n^2)         |            O(n^2)         |           O(n)         |      O(1)       |
-| 2 | [Shaker sort](#Shaker)  |          O(n^2)         |            O(n^2)         |           O(n)         |      O(1)       |
+| 1 | [Bubble sort](#Bubble)  |          O(n ^2)         |            O(n ^2)         |           O(n)         |      O(1)       |
+| 2 | [Shaker sort](#Shaker)  |          O(n ^2)         |            O(n ^2)         |           O(n)         |      O(1)       |
 
 <br/>
 
 ### <a name="Bubble"></a> Bubble sort
 
-```markdown
+```c++
 void BubbleSort(vector<int>& values) {
   for (size_t idx_i = 0; idx_i + 1 < values.size(); ++idx_i) {
     for (size_t idx_j = 0; idx_j + 1 < values.size() - idx_i; ++idx_j) {
@@ -26,7 +26,7 @@ void BubbleSort(vector<int>& values) {
 
 ### <a name="Shaker"></a> Shaker sort
 
-```markdown
+```c++
 void ShakerSort(vector<int>& values) {
   if (values.empty()) {
     return;
