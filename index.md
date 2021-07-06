@@ -1,16 +1,13 @@
-## Sorting algorithms 
+# Sorting algorithms 
 
 | № |  Algorithm  | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
 |:-:|:-----------:|:-----------------------:|:-------------------------:|:----------------------:|:---------------:|
 | 1 | Bubble sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 | 2 | Shaker sort |          O(n2)          |            O(n2)          |           O(n)         |      O(1)       |
 
-<!-- TOC -->
-1. [Bubble sort](#a-1)
-2. [Shaker sort](#a-2)
-<!-- /TOC -->
+[TOC]
 
-### Bubble sort
+## Bubble sort
 
 ```markdown
 void BubbleSort(vector<int>& values) {
@@ -24,7 +21,7 @@ void BubbleSort(vector<int>& values) {
 }
 ```
 
-### Shaker sort
+## Shaker sort
 
 ```markdown
 void ShakerSort(vector<int>& values) {
