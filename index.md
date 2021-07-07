@@ -1,4 +1,3 @@
-
 ## Sorting algorithms 
 
 | № |        Algorithm       | Time complexity (Worst) | Time complexity (Average) |   Time complexity (Best)  | Space compexity |
@@ -7,38 +6,6 @@
 | 2 | [Shaker sort](#Shaker) |          O($n^2$)       |          O($n^2$)         |           O(n)            |       O(1)      |
 
 <br/>
-
-O(<span class="katex--inline">
-  <span class="katex">
-    <span class="katex-mathml">
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <semantics>
-          <mrow>
-            <msup>
-              <mi>n</mi>
-              <mn>2</mn>
-            </msup>
-          </mrow>
-          <annotation encoding="application/x-tex">
-            n^2       
-          </annotation>
-        </semantics>
-      </math>
-    </span></span>)
-  
-  O(<span class="katex--inline">
-  <span class="katex">
-    <span class="katex-mathml">
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <semantics>
-          <annotation encoding="application/x-tex">
-            n^2       
-          </annotation>
-        </semantics>
-      </math>
-    </span>
-  </span>)
-
 
 
 ### <a name="Bubble"></a> Bubble sort
