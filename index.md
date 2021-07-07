@@ -25,8 +25,7 @@ O(<span class="katex--inline">
           </annotation>
         </semantics>
       </math>
-    </span>
-  </span>)
+    </span></span>)
 
 
 
