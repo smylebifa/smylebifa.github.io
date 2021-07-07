@@ -1,10 +1,10 @@
 
 ## Sorting algorithms 
 
-| № |        Algorithm        | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
-|:-:|:-----------------------:|:-----------------------:|:-------------------------:|:-------------------------:|:---------------:|
-| 1 | [Bubble sort](#Bubble)  |          O($n^2$)         |          O($n^2$)           |           O(n)         |           O(1)         |
-| 2 | [Shaker sort](#Shaker)  |          O($n^2$)       |          O($n^2$)           |           O(n)         |           O(1)         |
+| № |        Algorithm       | Time complexity (Worst) | Time complexity (Average) | Time complexity (Best) | Space compexity |
+|:-:|:----------------------:|:-----------------------:|:-------------------------:|:----------------------:|:---------------:|
+| 1 | [Bubble sort](#Bubble) |          O($n^2$)       |          O($n^2$)         |           O(n)         |           O(1)  |
+| 2 | [Shaker sort](#Shaker) |          O($n^2$)       |          O($n^2$)         |           O(n)         |           O(1)  |
 
 <br/>
 
