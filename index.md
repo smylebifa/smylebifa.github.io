@@ -8,6 +8,25 @@
 
 <br/>
 
+$r = <span class="katex--inline">
+  <span class="katex">
+    <span class="katex-mathml">
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <semantics>
+          <mrow>
+            <msup>
+              <mi>n</mi>
+              <mn>2</mn>
+            </msup>
+          </mrow>
+          <annotation encoding="application/x-tex">
+            n^2       
+          </annotation>
+        </semantics>
+      </math>
+    </span></span>;
+
+$r
 
 O(<span class="katex--inline">
   <span class="katex">
